@@ -218,13 +218,13 @@ As cores da aplicação são definidas via Tailwind CSS. Edite elas em `globals.
 
 <div align="center">
   <h3>
-    <a href="https://riuridev.com" target="_blank">
+    <a href="https://thunder-x.vercel.app/" target="_blank">
       🚀 Acesse a Demo → Ignition Δ
     </a>
   </h3>
   
   <p>
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://riuridev.com" alt="QR Code" width="150" />
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://thunder-x.vercel.app/" alt="QR Code" width="150" />
     <br />
     <em>Escaneie para acessar no celular</em>
   </p>
